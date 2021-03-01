@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2091fc"],{a85d:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 技术文档页面 ")])},u=[],a={name:"documentIndex"},d=a,o=t("2877"),r=Object(o["a"])(d,c,u,!1,null,"13d95e59",null);n["default"]=r.exports}}]);
-//# sourceMappingURL=chunk-2d2091fc.91402fcc.js.map
