@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-43419e96"],{"18ad":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{attrs:{id:"squareIndex"}},[e._v(" 广场页面 ")])},u=[],s={name:"squareIndex"},a=s,r=(t("4e14"),t("2877")),i=Object(r["a"])(a,c,u,!1,null,"559e8490",null);n["default"]=i.exports},"3c72":function(e,n,t){},"4e14":function(e,n,t){"use strict";t("3c72")}}]);
-//# sourceMappingURL=chunk-43419e96.a428df4c.js.map
+//# sourceMappingURL=chunk-43419e96.628cf458.js.map
